@@ -1,0 +1,18 @@
+[
+    {
+        "Field Name: ": "username",
+        "Input Type: ": "text"
+    },
+    {
+        "Field Name: ": "password",
+        "Input Type: ": "password"
+    },
+    {
+        "Field Name: ": "terms",
+        "Input Type: ": "checkbox"
+    },
+    {
+        "Field Name: ": "Button Submit",
+        "Input Type: ": "submit"
+    }
+]

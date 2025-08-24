@@ -1,0 +1,26 @@
+[
+    {
+        "Title": "Sharp Objects",
+        "Price": "£47.82",
+        "Stock": "✔ In stock",
+        "Button_Text": "Add to basket"
+    },
+    {
+        "Title": "In a Dark, Dark Wood",
+        "Price": "£19.63",
+        "Stock": "✔ In stock",
+        "Button_Text": "Add to basket"
+    },
+    {
+        "Title": "The Past Never Ends",
+        "Price": "£56.50",
+        "Stock": "✔ In stock",
+        "Button_Text": "Add to basket"
+    },
+    {
+        "Title": "A Murder in Time",
+        "Price": "£16.64",
+        "Stock": " Out stock",
+        "Button_Text": "Add to basket"
+    }
+]
